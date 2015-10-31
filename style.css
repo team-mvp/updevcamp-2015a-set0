@@ -1,0 +1,153 @@
+body {
+	margin: 0px;
+}
+
+#bio {
+	font-family: Lobster;
+	font-size: 25px;
+	height: 650px;
+	background-color: #D35DA0;
+	/* background: url("template/img/Loading Artist visits Ooo.jpg") no-repeat;
+	background-size: cover; */
+}
+
+.bio-intro {
+	padding-top: 70px;
+	font-family: Bree Serif;
+	font-size: 25px;
+	width:100%;
+}
+
+.bio-intro h1 {
+	font-size: 50px;
+	font-style: bold;
+	text-align: center;
+}
+
+.bio-intro p {
+	font-size: 15px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+.bio-ques {
+	width: 15%;
+	float: left;
+}
+
+.card {
+	position: relative;
+	width: 100px;
+	background-color: #D35DA0;
+	border-radius: 6px;
+  /* border: 1px #757575 solid; */
+}
+
+.bio-ans {
+	font-family: Handlee;
+	display: inline-block;
+	width: 60%;
+}
+
+.profile-img {
+	height: 100%;
+	width: 20%;
+	float: right;
+	padding: 20px;
+	padding-top: 0px;
+}
+
+#bio img {
+	width: 100%;
+	border-radius: 50px;
+}
+
+
+#why-csi {
+	background-color: #FF7FA5;
+	height: 700px;
+	padding: 20px;
+	padding-top: 70px;
+}
+
+#why-csi h1 {
+	font-family: Bree Serif;
+	font-size: 50px;
+	font-style: bold;
+	text-align: left;
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+.row1{
+	display: inline-block;
+}
+
+.row1 p {
+	float: left;
+	font-family: Bree Serif;
+	font-size: 20px;
+	padding-right: 10px;
+	margin-top: 0;
+	width: 60%;
+}
+
+.row1 img {
+	width: 40%;
+	border-radius: 50px;
+	float: right;
+}
+
+.row2 h2 {
+	float: left;
+	font-family: Bree Serif;
+	font-style: italic;
+	margin-top: 0;
+}
+
+#even-more {
+	height:850px;
+	background-color: #FFB0AD;
+	padding: 20px;
+	padding-top: 70px;
+}
+
+#even-more h3 {
+	font-family: Bree Serif;
+	font-size: 50px;
+	font-style: bold;
+	text-align: left;
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+#even-more p {
+	font-family: Bree Serif;
+	font-size: 15px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+.recipe h1, h2{
+	font-size: 25px;
+	font-style: bold;
+}
+
+.recipe h4 {
+	font-size: 15px;
+	font-style: bold;
+}
+
+.recipe ul, ol {
+	font-size: 15px;
+}
+
+.recipe span {
+	font-size: 15px;
+}
+
+footer {
+	font-size: xx-small;
+}
