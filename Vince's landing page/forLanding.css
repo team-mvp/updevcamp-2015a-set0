@@ -1,0 +1,134 @@
+header, section, footer, aside, nav, article, hgroup{
+	display:block;
+}
+body{
+	background-color: #FFF;
+}
+html{
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+h1,h3{
+	font-family: sans-serif;
+	color: white;
+}
+
+#h1-last{
+	margin-top: 30px;
+	color: #8beed8;
+	font-family: verdana;
+	padding: 5px;
+}
+
+#footer{
+
+	padding: 20px;	
+}
+
+#footer:hover{
+	color: black;
+}
+
+#picture{
+	width: 100px;
+	height: 70px;
+	margin: 10px;
+}
+
+#abi-picture{
+	width: 100px;
+	height: 70px;
+	margin: 10px;
+}
+
+#abi-picture:hover{
+	width: 1300px;
+	height: 470px;
+	position: relative;
+	margin: 20px;
+	
+}
+#prof-picture{
+	width: 480px;
+	height: 470px;
+	position: relative;
+	margin: 20px;
+}
+
+#prof-picture:hover{
+	width: 1300px;
+	height: 470px;
+	position: relative;
+	margin: 20px;
+	
+}
+
+
+#nav-top{
+	background-color: #00C6D7;
+	border: 1px solid #CCCCCC;
+	top: 65px;
+	left: 100px;
+	margin: 2px;
+}
+
+#the-menu{
+	background-color: #00C6C0;
+	
+}
+
+#main-body{
+	background-color: #00C6D7;
+	border-radius: 20px;
+	height: 900px;
+	width: 600px;
+	margin-left: 350px;
+
+}
+
+#about-racist{
+	background-color: black;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+#last-div{
+	background-color: #f3ece2;
+	border-radius: 5px;
+	padding-bottom: 10px;
+}
+
+#name{
+	font-size: 20px;
+	position: relative;
+	font-family: sans-serif;
+}
+
+.white-text{
+	color: white;
+	font-family: arial;
+	font-size: 15px;
+}
+
+.link{
+	-webkit-border-radius:10px;
+	margin:10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-left:15px;
+	padding-right:15px;
+	color:white; text-align: center;
+	-webkit-transition:-webkit-transform 0.2s;
+	-webkit-transition:border 0.2s;
+	font: 16px 'Open Sans';
+}
+
+#nav-top:hover{
+	background-color:#000;
+}
+
+.link:hover{
+	color: #D7CDF9;
+}
